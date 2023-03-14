@@ -1,4 +1,4 @@
-## Olá, eu sou o Emanuel
+## Olá, me chamo Emanuel
 
 <div>
   <img align="left" width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-DSC&layout=compact&theme=prussian"/>
