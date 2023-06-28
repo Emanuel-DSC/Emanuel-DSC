@@ -1,7 +1,7 @@
 ## Olá, me chamo Emanuel
 
 <div>
-  <img align="left" width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-DSC&layout=compact&theme=prussian"/>
+  <img align="left" width="40%" height="180em" src="https://streak-stats.demolab.com?user=Emanuel-DSC&theme=transparent&border_radius=10&exclude_days=Sun%2CSat&card_width=400"/>
   <img align="center" width="30%" height="180em" src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif"/> 
 </div>
  
