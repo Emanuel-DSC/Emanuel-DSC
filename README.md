@@ -1,5 +1,3 @@
-![Github](https://github.com/Emanuel-DSC/Emanuel-DSC/assets/61395660/cd51629e-6d21-4f68-9453-eaf8e3571c9d)
-<br>
 # 💫 About Me:
 
 I'm currently studying mobile development with Flutter and Dart
