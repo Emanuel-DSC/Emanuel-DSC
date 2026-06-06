@@ -2,28 +2,24 @@
 
 Flutter Developer focused on building scalable and real-world mobile applications.
 
-<br>
-
 ## Tech Stack
 
-### Core
+#### Core
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-### State Management
+#### State Management
 ![Riverpod](https://img.shields.io/badge/Riverpod-000000?style=flat)
 ![Provider](https://img.shields.io/badge/Provider-339933?style=flat)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat)
 
-### Backend & Services
+#### Backend & Services
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### Tools
+#### Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-<br>
 
 ## Projects
 
@@ -31,8 +27,6 @@ Flutter Developer focused on building scalable and real-world mobile application
 - 🎮 GameSpotlight  
 - 🎬 Moovera  
 - 🛒 QuickGrid  
-
-<br>
 
 ## Contact
 
